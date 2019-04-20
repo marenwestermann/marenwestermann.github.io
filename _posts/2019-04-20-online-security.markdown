@@ -41,13 +41,15 @@ One would think that changing a password is a quick thing to do. However, in my 
 
 When I logged into my university email account and tried to update my password, I got the message that I don’t have the permission to do this: 
 
-![UQ](https://github.com/marenwestermann/marenwestermann.github.io/blob/master/images/uq.png)
+![UQ]({{ site.url }}/images/uq.png)
 
 I contacted the IT service of my university to ask for help. I was notified that my university email account is linked to my general university account and that therefore it is not possible to change my password within my email account. I had assumed that because of this link changing my password within my email account would automatically apply to my general university account but this wasn’t the case. I was required to change the password for my general account and I needed to do it via a specific website which I previously was unaware of. I successfully updated my password, however it should be more straightforward. For example, if I would have noticed a suspicious activity in my email account on a Saturday and I wouldn’t have been able to figure out myself how to change the password, I would have needed to wait until the next Monday to contact the IT service. In the meantime, my account would have been unprotected. 
 
 The strangest thing I encountered was when I wanted to change the password of my Skype account. When I tried to do this, I got the following notification: 
 
-![skype](https://github.com/marenwestermann/marenwestermann.github.io/blob/master/images/skype.png)
+{:refdef: style="text-align: center;"}
+![skype ><]({{ site.url }}/images/skype.png)
+{: refdef}
 
 Why do I need to wait for a month before I can make security changes to my account? On the official Microsoft support website it is said that the waiting period is put in place in order to “stop unauthorized people from trying to completely take over an account that isn't theirs” ([see here](https://support.microsoft.com/en-my/help/4057241/microsoft-account-why-does-resetting-security-info-take-30-days)). Although this is a good intention, it comes with some problems. Firstly, Microsoft’s solution for protecting its accounts is not very user-friendly. Secondly, not being able to change the password for a month is not good security practice because it gives someone who gets unauthorized access to your account a lot of time to inspect and store all of your data. 
 

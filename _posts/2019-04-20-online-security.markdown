@@ -58,17 +58,17 @@ Why do I need to wait for a month before I can make security changes to my accou
 # Summary and conclusion 
 I thought that software providers, especially big companies, generally provide good IT security and that it’s mostly the everyday users without a background in IT that don’t make use of best security practices. However, as I learned, even when you want to apply best security practices as a user this is not always possible. I can therefore conclude that we have to catch up on this topic, not only from the user perspective but also from the provider perspective and therefore as a society. 
 
-
+<br>
 
 # Additional notes
 
-##### **Data breaches**
+#### **Data breaches**
 The data breach Collection#1 is just one out of many data breaches. (For more information, look [here](https://en.wikipedia.org/wiki/Collection_No._1).)
 
-##### **Password manager**
+#### **Password manager**
 As I learned, there is a free, open source password manager that also comes with its own password generator. It’s called [KeePass](https://keepass.info/).
 
-##### **Password length** 
+#### **Password length** 
 There is a debate on the minimum length of passwords and unfortunately there is no clear answer. When using a password that consists of random alphanumeric characters and symbols, 16 characters should be long enough. I’m using the word “should” here because after doing some online research, different websites have told me that a random password of this length would take longer than the lifetime of a person to crack, even with multiple parallel GPUs. However, I couldn’t find out how many GPUs this information was based on.
 
 In comparison, when a password consists of a concatenation of words that can be found in dictionaries, this password could potentially be cracked within a short amount of time (hours to days) through a dictionary attack. In this case it would be safer to use a password of more than 20 characters.

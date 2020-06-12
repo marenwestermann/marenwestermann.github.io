@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 
-Hi! I'm Maren and I blog about topics related to science and technology. 
+Hi! I'm Maren, a scientist turned machine learning engineer, and I blog about topics related to science and technology.

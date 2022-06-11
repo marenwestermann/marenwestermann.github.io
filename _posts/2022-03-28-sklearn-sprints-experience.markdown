@@ -8,7 +8,7 @@ categories: blogpost
 ---
 
 <figure>
-    <img src="/images/maren_interview.png" alt="Maren Westermann, PyLadies Berlin, scikit-learn" width="500" />
+    <img src="/images/maren_interview.png" alt="Maren Westermann, Data Umbrella, PyLadies Berlin, scikit-learn" width="500" />
 </figure>
 
 <br/>

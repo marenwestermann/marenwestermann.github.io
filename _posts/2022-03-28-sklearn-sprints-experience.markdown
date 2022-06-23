@@ -13,7 +13,7 @@ categories: blogpost
 
 <br/>
 
-#### Interviewer: Reshama Shaikh, founder of [Data Umbrella](https://www.dataumbrella.org/). <br/> For original blog post on the Data Ubrella website see [here](https://blog.dataumbrella.org/mwestermann-sprints-experience). 
+#### Interviewer: Reshama Shaikh, founder of [Data Umbrella](https://www.dataumbrella.org/). <br/> For original blog post on the Data Umbrella website see [here](https://blog.dataumbrella.org/mwestermann-sprints-experience).
 
 <br/>
 
